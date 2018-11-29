@@ -1,0 +1,18 @@
+https://www.python.org/downloads/
+-click Add
+-install
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame
+-download
+•	pygame 1.9.4 cp37 cp37m win32.whl
+
+
+go to Command Prompt
+-
+cd Downloads
+
+-
+pip install pygame-1.9.4-cp37-cp37m-win32.whl
+
+GAME:
+http://programarcadegames.com/python_examples/show_file.php?file=moving_sprites.py 
+
